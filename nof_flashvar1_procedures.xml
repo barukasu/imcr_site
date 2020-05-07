@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<flash>
+	<nof>
+		<target></target><orientation>horizontal</orientation><structure><menuItem instanceName="10079" destination="../index.html" label="Home" target=""/><menuItem instanceName="10878" destination="../Home/home.html" label="Home" target=""/><menuItem instanceName="10884" destination="../Our-Mission/our-mission.html" label="Our Mission" target=""/><menuItem instanceName="10881" destination="../Dr_-Abraham/dr_-abraham.html" label="Dr. Abraham" target=""/><menuItem instanceName="10887" destination="../Treatment/treatment.html" label="Treatment" target=""/><menuItem instanceName="10890" destination="../Procedures/procedures.html" label="Procedures" target=""/><menuItem instanceName="10893" destination="../Affiliates/affiliates.html" label="Affiliates" target=""/><menuItem instanceName="10896" destination="../Patien-Forms/patien-forms.html" label="Patien Forms" target=""/><menuItem instanceName="10899" destination="../Contact-Us/contact-us.html" label="Contact Us" target=""/></structure></nof>
+	<UserDefined>
+		<Param name="BaseColor" value="0xFFFFFF"/><Param name="RollOverColor" value="0x1F2F52"/><Param name="TextRollOverColor" value="0xFFFFFF"/><Param name="LabelFont" type="externalVar" caption="Font" dataType="font" value="" access="enabled" lowerLimit="5" upperLimit="13"><bold>false</bold><italic>false</italic><underline>false</underline><antialias>false</antialias><size>12</size><color>0x1F2F52</color><align>2</align><face>_sans</face></Param><Param name="Flyout" value="true"/></UserDefined>
+</flash>
